@@ -32,18 +32,18 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
-
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-    - item: Communication
+    - item: Compromiso
       link: # dejar en blanco
 
-    - item: Team Work
+    - item: Trabajo en equipo
       link: # dejar en blanco
 
-    - item: Time Management
+    - item: Aprendizaje constante
+      link: # dejar en blanco
+      
+    - item: Honestidad
       link: # dejar en blanco
 
 # Registra aquí un resumen de tu perfil
@@ -67,7 +67,7 @@ educationcomplete:
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Desarrollador Laravel
-    time: 2015 - Present
+    time: 2020 - Present
     company: Proyecto personal (AppSeries)
     details: |
       Aplicación creada con Laravel, hecha con el stack TALL (Tailwind, 
@@ -81,14 +81,14 @@ experiences:
       una reseña que otros usuarios pueden consultar.
       
   - role: Desarrollador Laravel
-    time: 2015 - Present
+    time: 2020 - Present
     company: Proyecto personal (DevJobs_laravel)
     details: |
       Aplicación creada con Laravel, Tailwind y Vue
       Por medio de esta aplicacion usuarios pueden publicar y consultar ofertas de empleo.
       
   - role: Desarrollador Laravel
-    time: 2015 - Present
+    time: 2020 - Present
     company: Proyecto personal (establecimientos)
     details: |
       Aplicación creada con Laravel, Tailwind y Vue.
@@ -97,7 +97,7 @@ experiences:
       javascript.
       
   - role: Desarrollador Laravel
-    time: 2015 - Present
+    time: 2020 - Present
     company: Proyecto personal (Recetas_laravel)
     details: |
       Aplicación creada con Laravel, Bootstrap.
