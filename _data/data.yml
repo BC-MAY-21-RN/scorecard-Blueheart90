@@ -68,7 +68,7 @@ educationcomplete:
 experiences:
   - role: Desarrollador Laravel
     time: 2015 - Present
-    company: Proyecto personal
+    company: Proyecto personal (AppSeries)
     details: |
       Aplicación creada con Laravel, hecha con el stack TALL (Tailwind, 
       Alpinejs, Laravel,Livewire), consume la API de TMDB.
@@ -79,16 +79,30 @@ experiences:
       películas/series de tal modo que pueda darles una calificación, 
       un estado (vista, en plan de ver, abandonada) y si asi lo desea 
       una reseña que otros usuarios pueden consultar.
-
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      
+  - role: Desarrollador Laravel
+    time: 2015 - Present
+    company: Proyecto personal (DevJobs_laravel)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Aplicación creada con Laravel, Tailwind y Vue
+      Por medio de esta aplicacion usuarios pueden publicar y consultar ofertas de empleo.
+      
+  - role: Desarrollador Laravel
+    time: 2015 - Present
+    company: Proyecto personal (establecimientos)
+    details: |
+      Aplicación creada con Laravel, Tailwind y Vue.
+      Web para promocionar establecimientos comerciales, en las publicaciones se puede indicar
+      la dirección del local en un mapa interactivo, gracias al uso de la librería Leaflet de
+      javascript.
+      
+  - role: Desarrollador Laravel
+    time: 2015 - Present
+    company: Proyecto personal (Recetas_laravel)
+    details: |
+      Aplicación creada con Laravel, Bootstrap.
+      Sitio para compartir recetas con otros usuarios y la opción de indicar un “me gusta” a las
+      recetas.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -100,22 +114,22 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: PHP
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: Laravel
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name: Tailwind
+      level: 60%
 
-    - name: C/C++
+    - name: Javascript
+      level: 40%
+
+    - name: CSS
+      level: 40%
+
+    - name: MySql
       level: 40%
 
 # NO MODIFICAR
