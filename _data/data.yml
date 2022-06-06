@@ -126,10 +126,10 @@ skills:
       level: 60%
 
     - name: Laravel
-      level: 60%
+      level: 65%
 
     - name: Tailwind
-      level: 60%
+      level: 65%
 
     - name: Javascript
       level: 60%
@@ -138,7 +138,7 @@ skills:
       level: 55%
 
     - name: MySql
-      level: 50%
+      level: 55%
       
     - name: React Native
       level: 65%
