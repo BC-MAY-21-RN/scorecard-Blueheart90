@@ -103,6 +103,14 @@ experiences:
       Aplicación creada con Laravel, Bootstrap.
       Sitio para compartir recetas con otros usuarios y la opción de indicar un “me gusta” a las
       recetas.
+      
+  - role: Desarrollador React Native
+    time: Febrero 2022 - Junio 2022
+    company: BrightCoders (Bootcamp)
+    details: |
+      El programa se caracterizan por que gran parte del trabajo se realiza de manera colaborativa, 
+      el conocimiento y las habilidades se desarrollan mediante la participación en retos o proyectos, 
+      durante los cuales se cuenta con el apoyo de mentores dentro de una cultura de trabajo  remoto.
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -124,16 +132,19 @@ skills:
       level: 60%
 
     - name: Javascript
-      level: 40%
+      level: 60%
 
     - name: CSS
-      level: 40%
+      level: 55%
 
     - name: MySql
-      level: 40%
+      level: 50%
       
     - name: React Native
-      level: 20%
+      level: 65%
+      
+    - name: Figma
+      level: 75%
 
 # NO MODIFICAR
 footer: >
